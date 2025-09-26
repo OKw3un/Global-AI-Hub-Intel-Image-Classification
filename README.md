@@ -56,5 +56,5 @@ Gelecekte yapılabilecek geliştirmeler:
 
 ## Linkler
 
-- [Kaggle Veri Seti](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
+- [Kaggle Veri Seti](https://www.kaggle.com/code/randomrandomgrrrrr/intel-image-classification)
 - Notebook Kaggle üzerinde mevcuttur ve tüm preprocessing, model training ve görselleştirme adımlarını içermektedir.
