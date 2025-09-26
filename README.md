@@ -1,9 +1,5 @@
 # Intel Image Classification with CNN
-
-Bu repo, Global AI Hub bootcamplerinde template olarak kullanmanız amacıyla tasarlanmıştır. Bu proje kapsamında Intel Image Classification veri seti kullanılarak bir Convolutional Neural Network (CNN) modeli eğitilmiş ve test edilmiştir.
-
 ---
-
 ## Giriş
 
 Bu projede, Intel Image Classification veri seti kullanılmıştır. Veri seti 6 sınıftan oluşmaktadır: **buildings, forest, glacier, mountain, sea, street**.  
